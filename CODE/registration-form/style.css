@@ -1,0 +1,15 @@
+form{
+  background-color: green;
+  padding: 50px;
+  margin: 200px;
+  max-width: 250px;
+  
+}
+h1{
+  font-size: 20px;
+  padding: 20px;
+  margin: 2px;
+}
+button{
+  margin: 5px;
+}
